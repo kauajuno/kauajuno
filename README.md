@@ -8,9 +8,9 @@ Atualmente tenho interesse em desenvolvimento com Java e Python, e pretendo cont
 - I.A.
 
 ## Contato
-- e-mail: kauajuno@gmail.com
-- github: [github.com/kauajuno]
-- instagram: [instagram.com/kauajuno]
+- kauajuno@gmail.com
+- [GitHub](github.com/kauajuno)
+- [Instagram](instagram.com/kauajuno)
 
 ---
 
@@ -24,8 +24,8 @@ Currently I have been interested in Java and Python development, and I pretend t
 - A.I.
 
 ## Contact
-- e-mail: kauajuno@gmail.com
-- github: [github.com/kauajuno]
-- instagram: [instagram.com/kauajuno]
+- kauajuno@gmail.com
+- [GitHub](github.com/kauajuno)
+- [Instagram](instagram.com/kauajuno)
 
 ---
