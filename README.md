@@ -9,8 +9,8 @@ Atualmente tenho interesse em desenvolvimento com Java e Python, e pretendo cont
 
 ## Contato
 - e-mail: kauajuno@gmail.com
-- github: github.com/kauajuno
-- instagram: instagram.com/kauajuno
+- github: [github.com/kauajuno]
+- instagram: [instagram.com/kauajuno]
 
 ---
 
@@ -25,7 +25,7 @@ Currently I have been interested in Java and Python development, and I pretend t
 
 ## Contact
 - e-mail: kauajuno@gmail.com
-- github: github.com/kauajuno
-- instagram: instagram.com/kauajuno
+- github: [github.com/kauajuno]
+- instagram: [instagram.com/kauajuno]
 
 ---
